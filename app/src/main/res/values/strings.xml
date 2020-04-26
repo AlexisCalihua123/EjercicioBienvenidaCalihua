@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">EjercicioBienvenidaCalihua</string>
+    <string name="Descripcion">Android robot</string>
+    <string name="BIENBENIDO">"BIENVENIDO  A MI APLICACION "</string>
+    <string name="BIENVENIDO">"BIENVENIDO "</string>
+</resources>
